@@ -1,0 +1,8 @@
+
+> task_5@1.0.0 build
+> webpack
+
+asset [1m[32mbundle.js[39m[22m 1.86 KiB [1m[32m[emitted][39m[22m (name: main)
+asset [1m[32mindex.html[39m[22m 136 bytes [1m[32m[emitted][39m[22m
+[1m./js/main.ts[39m[22m 690 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.106.1 compiled [1m[32msuccessfully[39m[22m in 874 ms
