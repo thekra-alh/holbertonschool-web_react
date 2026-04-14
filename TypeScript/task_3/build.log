@@ -1,0 +1,11 @@
+
+> task_3@1.0.0 build
+> webpack
+
+asset [1m[32mbundle.js[39m[22m 5.4 KiB [1m[33m[compared for emit][39m[22m (name: main)
+asset [1m[32mindex.html[39m[22m 136 bytes [1m[33m[compared for emit][39m[22m
+runtime modules 670 bytes 3 modules
+cacheable modules 1000 bytes
+  [1m./js/main.ts[39m[22m 677 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+  [1m./js/crud.js[39m[22m 325 bytes [1m[33m[built][39m[22m [1m[33m[code generated][39m[22m
+webpack 5.106.1 compiled [1m[32msuccessfully[39m[22m in 766 ms
