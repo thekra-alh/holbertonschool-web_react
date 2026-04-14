@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "strict": true,
+    "noImplicitAny": true,
+    "outFile": "dist/main.js",
+    "skipLibCheck": true
+  },
+  "files": [
+    "js/subjects/Teacher.ts",
+    "js/subjects/Subject.ts",
+    "js/subjects/Cpp.ts",
+    "js/subjects/React.ts",
+    "js/subjects/Java.ts"
+  ]
+}
